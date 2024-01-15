@@ -1,5 +1,1 @@
-**Connected to database and implimented NextAuth authentication using google OAuth.**
-
-**_Handled user signin and sessions accordingly. _**
-
-**Every new email will be saved to the database.**
+**\*Creating a prompt page by creating a new folder create-prompt inside app folder.**
